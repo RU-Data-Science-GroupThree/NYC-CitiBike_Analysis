@@ -1,0 +1,10 @@
+1)Additional Questions
+	Google Places to map stations (station locations (Alex))
+	*Additional Time (2017-2018, Quarterly Growth(Evan))
+	Usage 
+		popular routes - Trip Duration vs Google Route (Google Maps Bike Route Baseline) (Evan), 
+		Bike ID vs Duration (Evan), 
+		Busiest day of the month/year (Alex)
+		Mean Trip Duration vs Subscriber Type(Alex)
+	Demographic Breakdown(Evan)
+	Integrate Real-Time JSON Data?
